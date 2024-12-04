@@ -1,0 +1,4 @@
+ALTER TABLE personne
+ADD COLUMN delivreLe DATE,
+ADD COLUMN delivreA VARCHAR(255),
+ADD COLUMN adresseComplet VARCHAR(255);

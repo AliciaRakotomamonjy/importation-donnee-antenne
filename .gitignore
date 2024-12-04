@@ -36,7 +36,6 @@ bin/
 /.nb-gradle/
 libs/
 
-
 ### VS Code ###
 .vscode/
 

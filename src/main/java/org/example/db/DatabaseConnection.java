@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class DatabaseConnection {
 
-    private static String URL_BASE = "jdbc:postgresql://206.189.123.41:2003/antenne_backup";
+    private static String URL_BASE = "jdbc:postgresql://206.189.123.41:2003/antenne";
     private static String USER_BASE = "postgres";
     private static String PASSWORD_BASE = "root";
 
